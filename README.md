@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://img.icons8.com/?size=100&id=OGorCfaq39bR&format=png&color=000000" alt="Netflix Clone Demo" width="100%">
-</p>
+<h1 align="center">
+	<img alt="Discord logo" src="https://img.icons8.com/?size=100&id=VZLXV08EcZsm&format=png&color=000000" height="150px" width="150px" />
+</h1>
 
 # 🎬 Netflix Clone
 
